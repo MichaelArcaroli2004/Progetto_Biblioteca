@@ -1,0 +1,40 @@
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\bin\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.deps.json
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\bin\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.dll
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\bin\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.pdb
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.csproj.AssemblyReference.cache
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.AssemblyInfoInputs.cache
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.AssemblyInfo.cs
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.csproj.CoreCompileInputs.cache
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.dll
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.pdb
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli (2)\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\bin\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.deps.json
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli (2)\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\bin\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.dll
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli (2)\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\bin\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.pdb
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli (2)\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.csproj.AssemblyReference.cache
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli (2)\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli (2)\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.AssemblyInfoInputs.cache
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli (2)\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.AssemblyInfo.cs
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli (2)\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.csproj.CoreCompileInputs.cache
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli (2)\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.dll
+C:\Users\micha\Downloads\Bilioteca Bros e Arcaroli (2)\Bilioteca Bros e Arcaroli\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.pdb
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\bin\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.deps.json
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\bin\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.dll
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\bin\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.pdb
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.dll
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.pdb
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli - Copia\Biblioteca Bros e Arcaroli Libreria\bin\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.deps.json
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli - Copia\Biblioteca Bros e Arcaroli Libreria\bin\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.dll
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli - Copia\Biblioteca Bros e Arcaroli Libreria\bin\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.pdb
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli - Copia\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli - Copia\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli - Copia\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli - Copia\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli - Copia\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli - Copia\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.dll
+C:\Users\micha\OneDrive\Documenti\Scuola\Informatica\Bilioteca Bros e Arcaroli - Copia\Biblioteca Bros e Arcaroli Libreria\obj\Debug\netcoreapp3.1\Biblioteca Bros e Arcaroli Libreria.pdb
